@@ -20,12 +20,6 @@ Online Shoppers Purchasing Intention Dataset
 https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset 
 
 #Contents of Repository:
-Data sets: Raw and processed datasets.
-Panda Profiling: Technical reports of EDA.
-Income Quantiles : Technical reports of preparing target attribute (different quantiles/levels of income).
-Feature Selection: Technical reports of different feature selection methods.
-Classifiers on FS Methods: Technical reports of diffrent feature selection methods evaluation.
-Classifiers-top16: Technical reports of performance evaluation (top 16 attributes).
-CIND820 Big Data Analytics Project Report: Final project report
-Powerpoint Presentation: PowerPoint presentation of the project
-Tools used: Python (JupyterNotebook) and RStudio (rmarkdown)
+1. Data sets: Raw and processed datasets.
+2. Panda Profiling: Technical reports of EDA.
+3. 
