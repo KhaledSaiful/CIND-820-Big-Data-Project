@@ -19,7 +19,31 @@ The culmination of this study promises actionable intelligence enabling business
 Online Shoppers Purchasing Intention Dataset
 https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset 
 
-#Contents of Repository:
-1. Data sets: Raw and processed datasets.
-2. Panda Profiling: Technical reports of EDA.
-3. 
+#Initial result and coad:
+1. Data attributes and statistical analysis
+2. Data Cleaning
+3. Analysis and Visualization
+  Density plot for numerical columns
+  Box-and-whisker plots for numerical col
+  Imbalance dataset
+  Importance of Page Values
+  Correlation
+  Right-skewed feature distribution
+  Page Matrix analysis:
+  Revenue Analysis
+4. Model selection
+  Baseline Model
+  Models
+  Data Pre-Processing
+  Select Target and Features
+  Modelling
+  ROC Carve
+5. Hyper-Parameter Tuning - Random Forest
+6. Inspect Feature Importance
+7. Evaluating with Cross Validation
+8. Result
+9. Select Target and Features
+10. Hypothesis testing:
+    Question 1: How do different informative page categories contribute to the likelihood of a user making a purchase?
+    Research Question 2: Can we predict the likelihood of a user making a purchase based on metrics such as Bounce Rates, Exit Rates,        and Page Values?
+    Question 3: What is the relationship between features related to timing (Weekend, Month, and special Day) and revenue generation? 
